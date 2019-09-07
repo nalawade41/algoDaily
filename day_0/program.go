@@ -1,11 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
 
 func main() {
+	reader := bufio.NewReader(os.Stdin)
+	fmt.Print("Enter string to reverse: ")
+	s, _ := reader.ReadString('\n')
 
-	fmt.Println(reverse("thisistest"))
-	fmt.Println(optimizedReverse("thisistest"))
+	fmt.Println(reverse(s))
+	fmt.Println(optimizedReverse(s))
 }
 
 
