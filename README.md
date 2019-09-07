@@ -8,10 +8,13 @@ Language used to solve the problem is Golang. Choose this language becuase just 
 
 I also included test cases and test covrage as well along with code. 
 
-To run a test cases just run command  > go test -v
-To get test covarage data run > go test -cover
-To get covarage in file run > go test -coverprofile=cover.txt --<This name coud be anything you want>
-To make that readable report > go tool cover -html=cover.txt  -o cover.html
+To run a test cases just run command  > `go test -v`
+
+To get test covarage data run > `go test -cover`
+
+To get covarage in file run > `go test -coverprofile=cover.txt` --<This name coud be anything you want>
+ 
+To make that readable report > `go tool cover -html=cover.txt  -o cover.html`
 
 
 
