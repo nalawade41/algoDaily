@@ -1,0 +1,11 @@
+mode: set
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:5.13,9.2 3 0
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:11.52,14.26 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:18.2,18.26 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:24.2,25.27 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:31.2,31.15 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:14.26,16.3 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:18.26,19.29 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:19.29,21.4 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:25.27,26.12 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/AlgoDaily/day_1/program.go:26.12,28.4 1 1
