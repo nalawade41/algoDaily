@@ -1,0 +1,8 @@
+mode: set
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:5.13,7.2 1 0
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:9.39,11.22 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:18.2,19.25 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:23.2,23.18 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:11.22,13.23 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:13.23,15.4 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/string_construction/program.go:19.25,21.3 1 1

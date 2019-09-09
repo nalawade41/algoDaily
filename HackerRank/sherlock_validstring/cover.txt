@@ -1,0 +1,13 @@
+mode: set
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:10.13,12.2 1 0
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:14.31,16.17 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:20.2,22.22 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:27.2,30.29 3 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:34.2,37.24 3 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:45.2,45.13 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:16.17,18.3 1 0
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:22.22,25.3 2 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:30.29,32.3 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:37.24,39.3 1 0
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:39.8,41.54 1 1
+/Users/mahesh/work/personal/src/ProblemSolving/HackerRank/sherlock_validstring/program.go:41.54,43.4 1 1
